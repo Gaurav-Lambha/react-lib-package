@@ -1,13 +1,13 @@
 {
-    "name": "react-lib-package",
+    "name": "@gaurav-lambha/react-lib-package",
     "repository": {
         "type": "git",
         "url": "https://github.com/Gaurav-Lambha/react-lib-package.git"
     },
     "publishConfig": {
-        "gaurav-lambha:registry":"https://npm.pkg.github.com"
+        "registry":"https://npm.pkg.github.com"
     },
-    "version": "0.0.1",
+    "version": "0.0.3",
     "description": "A component library for getting people started with easy to re-use components for everyday projects.",
     "main": "dist/cjs/index.js",
     "module": "dist/esm/index.js",
